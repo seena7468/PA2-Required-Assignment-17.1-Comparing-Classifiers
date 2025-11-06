@@ -1,6 +1,6 @@
 # Comparing-Classifiers
 
-Jupyter NoteBook link - 
+Jupyter NoteBook link - https://github.com/seena7468/PA2-Required-Assignment-17.1-Comparing-Classifiers/blob/main/Comparing_Classifiers.ipynb
 
 ### Business Objective:
 
